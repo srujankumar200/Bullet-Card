@@ -1,6 +1,6 @@
 # Sales-Analysis
 Bullet Card:
-Comprehensive study of a companies’ competitors’
+Comprehensive study of a company sales and analyse the strategy to improve it's sales
 
 In this short assignment of mine I have covered the topic’s like
 1 – data(collection/pattern)
