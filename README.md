@@ -2,7 +2,7 @@
 Bullet Card:
 Comprehensive study of a company sales and analyse the strategy to improve it's sales
 
-In this short assignment of mine I have covered the topic’s like
+In this short assignment of mine I have covered the topic’s like:
 *1 – data(collection/pattern)
 *2 – data preparation (cleaning and formatting)
 *3 – handling null value’s
