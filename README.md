@@ -3,7 +3,7 @@ Bullet Card:
 Comprehensive study of a companies’ competitors’
 
 In this short assignment of mine I have covered the topic’s like
-1 – data(collection/pattern)
+1 – data(collection/pattern)"\n"
 2 – data preparation (cleaning and formatting)
 3 – handling null value’s
 4 – Exploratory data analysis (EDA)
