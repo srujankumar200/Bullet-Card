@@ -2,11 +2,11 @@ Bullet Card:
 Comprehensive study of a company sales and improve it's sales by comparing
 
 In this short assignment of mine I have covered the topic’s like
-1 – data(collection/pattern)
-2 – data preparation (cleaning and formatting)
-3 – handling null value’s
-4 – Exploratory data analysis (EDA)
-5 – Data visualization  
+* 1 – data(collection/pattern)
+* 2 – data preparation (cleaning and formatting)
+* 3 – handling null value’s
+* 4 – Exploratory data analysis (EDA)
+* 5 – Data visualization  
 
 I have completed the following in multiple of the available tool’s namely
 1 – Kaggle/online data sources – in the aim to collect and process the data (company data), I have also referred to some git repository for the data
